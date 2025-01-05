@@ -68,13 +68,13 @@ export const eduDetails = [
   },
 
   {
-    Position: "XII-(State board)",
+    Position: "XII-(CBSE board)",
     Company: `S M P Public School`,
     Location: "Prayagraj, Uttar Pradesh",
     Duration: "March 2019 - March 2020",
   },
   {
-    Position: "X-(State Board)",
+    Position: "X-(CBSE Board)",
     Company: `S M P Public School`,
     Location: "Prayagraj, Uttar Pradesh",
     Duration: "March 2017 - March 2018",
